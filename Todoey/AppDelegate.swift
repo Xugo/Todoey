@@ -3,7 +3,7 @@
 //  Todoey
 //
 //  Created by Kelvin Nguyen on 2/8/18.
-//  Copyright © 2018 Kelvin Nguyen. All rights reserved.
+//  Copyright © 2018 HowToNguyen. All rights reserved.
 //
 
 import UIKit
